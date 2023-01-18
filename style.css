@@ -12,3 +12,9 @@ p{
     background-color: antiquewhite;
     color: turquoise;
 }
+button{
+    padding: 10px;
+    border-radius: 20px;
+    width: 20%;
+    
+}
