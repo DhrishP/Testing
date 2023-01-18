@@ -1,0 +1,14 @@
+h2{
+    border: 2px solid teal;
+    background-color: beige;
+    color: turquoise;
+
+}
+p{
+   
+    height: 15rem;
+    text-align: center;
+    padding: 4rem;
+    background-color: antiquewhite;
+    color: turquoise;
+}
